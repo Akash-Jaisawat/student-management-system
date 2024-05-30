@@ -1,0 +1,21 @@
+id,pincode,firstname,lastname,gender,dob,address,city,state,country_id,phone,course,email,password,image,file,hobbies,xboard,xperc,xyop,xiiboard,xiiperc,xiiyop,role
+1,123456,John,Doe,Male,2000-01-01,123 Main St,New York,NY,1,1234567890,Computer Science,john.doe@example.com,password123,john.jpg,john.pdf,Reading,CBSE,85.0,2015,CBSE,90.0,2017,student
+2,654321,Jane,Smith,Female,2001-02-02,456 Elm St,Los Angeles,CA,2,0987654321,Electrical Engineering,jane.smith@example.com,password123,jane.jpg,jane.pdf,Swimming,ICSE,88.0,2016,ICSE,92.0,2018,student
+3,234567,Michael,Brown,Male,1999-03-03,789 Oak St,Chicago,IL,3,1122334455,Mechanical Engineering,michael.brown@example.com,password123,michael.jpg,michael.pdf,Cycling,CBSE,82.0,2014,CBSE,87.0,2016,student
+4,345678,Emily,Davis,Female,2000-04-04,101 Pine St,Houston,TX,4,2233445566,Civil Engineering,emily.davis@example.com,password123,emily.jpg,emily.pdf,Dancing,ICSE,90.0,2015,ICSE,93.0,2017,student
+5,456789,Daniel,Wilson,Male,2001-05-05,202 Cedar St,Phoenix,AZ,5,3344556677,Information Technology,daniel.wilson@example.com,password123,daniel.jpg,daniel.pdf,Painting,CBSE,84.0,2016,CBSE,89.0,2018,student
+6,567890,Olivia,Johnson,Female,1999-06-06,303 Birch St,Philadelphia,PA,1,4455667788,Biomedical Engineering,olivia.johnson@example.com,password123,olivia.jpg,olivia.pdf,Gardening,ICSE,86.0,2014,ICSE,91.0,2016,student
+7,678901,Matthew,Martinez,Male,2000-07-07,404 Maple St,San Antonio,TX,2,5566778899,Architecture,matthew.martinez@example.com,password123,matthew.jpg,matthew.pdf,Photography,CBSE,87.0,2015,CBSE,92.0,2017,student
+8,789012,Ava,Hernandez,Female,2001-08-08,505 Willow St,San Diego,CA,3,6677889900,Chemical Engineering,ava.hernandez@example.com,password123,ava.jpg,ava.pdf,Singing,ICSE,89.0,2016,ICSE,94.0,2018,student
+9,890123,Christopher,Lopez,Male,1999-09-09,606 Ash St,Dallas,TX,4,7788990011,Aerospace Engineering,christopher.lopez@example.com,password123,christopher.jpg,christopher.pdf,Cooking,CBSE,83.0,2014,CBSE,88.0,2016,student
+10,901234,Isabella,Gonzalez,Female,2000-10-10,707 Cherry St,San Jose,CA,5,8899001122,Software Engineering,isabella.gonzalez@example.com,password123,isabella.jpg,isabella.pdf,Traveling,ICSE,91.0,2015,ICSE,95.0,2017,student
+11,012345,Joshua,Garcia,Male,2001-11-11,808 Spruce St,Austin,TX,1,9900112233,Environmental Engineering,joshua.garcia@example.com,password123,joshua.jpg,joshua.pdf,Hiking,CBSE,85.0,2016,CBSE,90.0,2018,student
+12,123456,Sophia,Rodriguez,Female,1999-12-12,909 Walnut St,Jacksonville,FL,2,1011123344,Materials Engineering,sophia.rodriguez@example.com,password123,sophia.jpg,sophia.pdf,Writing,ICSE,87.0,2014,ICSE,92.0,2016,student
+13,234567,Andrew,Martinez,Male,2000-01-13,1010 Hickory St,San Francisco,CA,3,1112233445,Petroleum Engineering,andrew.martinez@example.com,password123,andrew.jpg,andrew.pdf,Fishing,CBSE,86.0,2015,CBSE,91.0,2017,student
+14,345678,Mia,Wilson,Female,2001-02-14,1111 Poplar St,Columbus,OH,4,1223344556,Industrial Engineering,mia.wilson@example.com,password123,mia.jpg,mia.pdf,Knitting,ICSE,88.0,2016,ICSE,93.0,2018,student
+15,456789,Ethan,Anderson,Male,1999-03-15,1212 Elmwood St,Charlotte,NC,5,1334455667,Mining Engineering,ethan.anderson@example.com,password123,ethan.jpg,ethan.pdf,Running,CBSE,82.0,2014,CBSE,87.0,2016,student
+16,567890,Amelia,Thomas,Female,2000-04-16,1313 Pinewood St,Fort Worth,TX,1,1445566778,Nuclear Engineering,amelia.thomas@example.com,password123,amelia.jpg,amelia.pdf,Reading,ICSE,90.0,2015,ICSE,95.0,2017,student
+17,678901,Alexander,Taylor,Male,2001-05-17,1414 Oakwood St,Detroit,MI,2,1556677889,Marine Engineering,alexander.taylor@example.com,password123,alexander.jpg,alexander.pdf,Swimming,CBSE,84.0,2016,CBSE,89.0,2018,student
+18,789012,Charlotte,Lee,Female,1999-06-18,1515 Cedarwood St,El Paso,TX,3,1667788990,Robotics,Charlotte.lee@example.com,password123,Charlotte.jpg,Charlotte.pdf,Cycling,ICSE,86.0,2014,ICSE,91.0,2016,student
+19,890123,Daniel,White,Male,2000-07-19,1616 Birchwood St,Memphis,TN,4,1778899001,Photonics,daniel.white@example.com,password123,daniel.jpg,daniel.pdf,Dancing,CBSE,87.0,2015,CBSE,92.0,2017,student
+20,901234,Abigail,Harris,Female,2001-08-20,1717 Maplewood St,Boston,MA,5,1889900112,Geotechnical Engineering,abigail.harris@example.com,password123,abigail.jpg,abigail.pdf,Painting,ICSE,89.0,2016,ICSE,94.0,2018,student

@@ -1,0 +1,6 @@
+pincode,firstname,lastname,gender,dob,address,city,state,country_id,phone,course,email,password,image,file,hobbies,xboard,xperc,xyop,xiiboard,xiiperc,xiiyop,role
+302017,John,Doe,Male,1995-08-15,123 Main St,New York,NY,1,1234567890,Engineering,johndoe@exa.com,password123,,,"Reading, Sports",CBSE,85,2012,CBSE,80,2014,Student
+302018,Jane,Doe,Female,1997-06-20,456 Oak St,Los Angeles,CA,1,9876543210,Medicine,janedoe@exam.com,password456,,,"Music, Travel",ICSE,90,2013,ICSE,88,2015,Student
+302019,Alice,Smith,Female,1998-09-25,789 Elm St,San Francisco,CA,1,4567890123,Law,alicesmith@exampl.com,password789,,,"Drawing, Writing",State Board,87,2014,State Board,85,2016,Student
+302020,Bob,Johnson,Male,1996-03-10,101 Pine St,Chicago,IL,1,7418529630,Computer Science,bobjoh@example.com,passwordabc,,,"Cooking, Photography",CBSE,88,2012,CBSE,85,2014,Student
+302021,Eve,Williams,Female,1999-11-05,202 Cedar St,Miami,FL,1,3216549870,Architecture,evewilli@example.com,passworddef,,,"Gardening, Dancing",State Board,92,2015,State Board,90,2017,Student
